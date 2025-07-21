@@ -1,7 +1,6 @@
-calculator
+CALCULATOR App
 <br>
 How to run it:
 <br>
-- Install Java
-- <br>
-- Run using: `java -jar "yeshu's calculator.jar
+    - Install Java
+    - Run using: `java -jar "yeshu's calculator.jar
